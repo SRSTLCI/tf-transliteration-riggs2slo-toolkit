@@ -1,0 +1,1 @@
+This folder is used to contain working files as transliteration is performed. This file might be deleted during transliteration, but is not necessary to proper app performance.
