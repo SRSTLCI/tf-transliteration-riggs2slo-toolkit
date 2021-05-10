@@ -78,6 +78,11 @@ The output folder will contain a .txt with each sentence placed on a new line.
 
 This option doesn't perfectly preserve the formatting of the original input text, but it performs a lot of work to retain the formatting of the original input text.
 
+# Model Accuracy
+This model does not discern context within a given sentence or paragraph in relation to meaning or other words. As such, when transliterating from Riggs to SLO, you should be aware of what the original word may have been in Riggs and determine if the word produced in SLO is a valid Dakota/Lakota word or phrase. 
+
+The primary goal of this tool is to accelerate the workflows required in transliterating documents written in Riggs orthography. It will both assist individuals who have no intimate knowledge of the Dakota/Lakota language and accelerate workflows for individuals who do. Hence, we are always looking to improve the accuracy of the model, and may periodically provide updated versions of the model that make less mistakes.
+
 # Updating the Model
 If we release a new model, you can replace the contents of the tf-transliteration folder with that of a tf-transliteration folder associated with a newer model. The app should be capable of using any model that is placed there and use it to transliterate your text.
 
