@@ -1,0 +1,14 @@
+tf-transliteration-riggs2slo-toolkit
+Copyright 2021 SRST Language and Culture Institute
+
+This product contains the tf-transliteration software
+created by Kolloldas (https://github.com/kolloldas/tf-transliteration)
+licensed with the Apache License Version 2.0.
+
+This product contains software written by Casey Fasthorse
+licensed with the Apache License Version 2.0.
+
+This product contains linguistic content which is copyright SRST LCI
+contained in /tf-transliteration/ei/
+which has been licensed under the Dakota/Lakota Community Access License CO-BY-NC-SA 1.0
+(https://othokahe.com/mod/page/view.php?id=340)
